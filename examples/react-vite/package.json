@@ -1,0 +1,21 @@
+{
+  "name": "front-guard-example-react-vite",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@front-guard/core": "workspace:*",
+    "@front-guard/react": "workspace:*"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.1.0",
+    "vite": "^5.4.0",
+    "typescript": "^5.6.3"
+  }
+}
